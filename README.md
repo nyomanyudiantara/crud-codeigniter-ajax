@@ -1,2 +1,2 @@
 # crud-codeigniter-ajax
-CRUD CodeIgniter with AJAX
+CRUD CodeIgniter using AJAX
